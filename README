@@ -1,7 +1,15 @@
-# bicyclelab
+# bicyclelab.ORG
 
-Take the control of your electric bicycle. The energy consumtion, the I/O with RFM12 or bluetooth, the load of the battery the display, the throttle, the charging, every pieces open source.
+Take the control of your electric bicycle. Manage the energy consumtion, wireless I/O with RFM12 or bluetooth, the display, the throttle, the charging, every pieces are open source.
 
 **THIS IS ALPHA SOFTWARE/HARDWARE AND SHOULD BE TREATED ACCORDINGLY.**
 **IT IS FUN TO GET RUNNING, BUT EXPECT THINGS TO BE BROKEN.**
+
+##Roadmap
+This is a long term project, here is the list of the first ideas: 
+* Control your ebike kit with our lithium ion battery and our electronics
+* Log data, like power, battery voltage, throttle, with bluetooth and android
+* Use RFM12b as throttle and battery charge indication
+* Create the li-ion battery protection module   
+* Use the battery for other target with DC 5V 3A output
 
