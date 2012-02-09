@@ -7,9 +7,10 @@ Take the control of your electric bicycle. Manage the energy consumtion, wireles
 
 ##Roadmap
 This is a long term project, here is the list of the first ideas: 
-* Control your ebike kit with our lithium ion battery and our electronics
-* Log data, like power, battery voltage, throttle, with bluetooth and android
-* Use RFM12b as throttle and battery charge indication
+* Manage/control your electric bicycle kit with our lithium/electronics/software replacement
+* Log data, power, battery voltage, throttle, 
+* Use RFM12b as throttle and battery display
+* Develop an android application 
 * Create the li-ion battery protection module   
 * Use the battery for other target with DC 5V 3A output
 
