@@ -12,6 +12,10 @@
 
 ![The PCB board](https://raw.github.com/evaletolab/bicyclelab-manager/master/docs/pcb.png "controller v0.0")
 
+
+
+**THIS IS ALPHA SOFTWARE/HARDWARE AND SHOULD BE TREATED ACCORDINGLY.**
+**IT IS FUN TO GET RUNNING, BUT EXPECT THINGS TO BE BROKEN.**
  
 ## License
 GPL3
