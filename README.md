@@ -1,7 +1,7 @@
 #Simple Wireless bicycle controller
 
 ##Features
-1. Control electric bicycle kit with our evaletolab/bicyclelab-charger,
+1. Control electric bicycle kit with our [evaletolab/bicyclelab-charger](../../../bicyclelab-charger),
 2. 16kb flash,
 3. Sensors for battery current and battery voltage,
 3. 3 axis accelerometer available,
