@@ -1,10 +1,14 @@
 #Simple Wireless bicycle controller
 
 ##Features
-
-1. 
-2. full protections: Short circuit / Overload / Over voltage / Over temperature
-7. small size, only 30x90x8mm
+1. Control electric bicycle kit with our [lithium/electronics/software project](@evaletolab/bicyclelab-charger),
+2. 16kb flash,
+3. Sensors for battery current and battery voltage,
+3. 3 axis accelerometer available,
+3. RFM12b for IO
+4. controll external ESC with PWM or voltage
+2. full protections: Short circuit / Overload / Over voltage 
+7. small size, only ~23x48x4mm
 
 ![The PCB board](https://raw.github.com/evaletolab/bicyclelab-manager/master/docs/pcb.png "controller v0.0")
 
