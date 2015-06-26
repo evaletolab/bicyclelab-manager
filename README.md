@@ -1,5 +1,7 @@
 #Simple Wireless bicycle controller
 
+![live testing](http://ucarecdn.com/42edabe7-46ce-4520-a1de-0e63eb6efe72/-/scale_crop/800x700/center/)
+
 ##Features
 1. Control electric bicycle kit with our [evaletolab/bicyclelab-charger](../../../bicyclelab-charger),
 2. 16kb flash,
