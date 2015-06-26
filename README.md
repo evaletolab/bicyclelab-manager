@@ -1,8 +1,9 @@
 #Simple Wireless bicycle controller
 
-All that stuffs are pluged and tested here! 
+All that stuff are plugged and tested here!
 ![live testing](http://ucarecdn.com/42edabe7-46ce-4520-a1de-0e63eb6efe72/-/scale_crop/800x700/center/)
-Have a look on the switch
+
+the super switch
 ![wireless switch](http://ucarecdn.com/3769ae40-b797-4a02-8fcf-6ca95b9bdaef/-/resize/800x600/)
 ##Features
 1. Control electric bicycle kit with our [evaletolab/bicyclelab-charger](../../../bicyclelab-charger),
