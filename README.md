@@ -9,7 +9,7 @@ the super switch
 1. Control electric bicycle kit with our [evaletolab/bicyclelab-charger](../../../bicyclelab-charger),
 2. 16kb flash,
 3. Sensors for battery current and battery voltage,
-3. 3 axis accelerometer available,
+3. 3 axis accelerometer available (automatic force detection to control motor power),
 3. RFM12b for IO
 4. controll external ESC with PWM or voltage
 2. full protections: Short circuit / Overload / Over voltage 
